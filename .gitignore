@@ -1,0 +1,17 @@
+target
+.settings
+*/.idea
+logs
+.classpath
+.project
+.settings/*
+.idea/*
+.mvn/*
+/.classpath
+/.project
+/.settings
+*.iml
+*.log
+HELP.md
+mvnw.cmd
+mvnw
